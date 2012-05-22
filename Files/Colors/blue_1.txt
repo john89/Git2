@@ -1,3 +1,5 @@
-blue 1
+BLUE
 
 This is the story of blue file.
+
+Blue is a wonderful color.
