@@ -1,0 +1,12 @@
+yellow 1
+
+This is the new yellow 1.
+
+The quick brown fox jumps over the lazy dog.
+
+
+<<<<<<< HEAD
+v1
+=======
+v2
+>>>>>>> Rollback to yellow 1
