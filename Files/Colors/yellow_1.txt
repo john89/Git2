@@ -2,4 +2,4 @@ yellow 1
 
 This is the new yellow 1.
 
-The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog. And the lazy dog didn't notice.
